@@ -1,0 +1,35 @@
+
+:root {
+    --vp-home-hero-name-color: #6d6d6d; /* Change font colour in hero */
+    --vp-nav-height: 100px /* increase navigationo bar height to allow more space for our logo */
+  }
+
+/* Class used to ensure videos are in centre of the page */
+.video-center {
+  display: flex;
+  flex-direction: column; /* stack children vertically */
+  align-items: center;     /* center horizontally */
+  gap: 1rem;               /* space between caption and iframe */
+  margin: 2rem 0;
+}
+
+/* Overides for the home page style */
+/* Remove the search bar from the home page */
+.home .VPNavBarSearch {
+  display: none !important;
+}
+/* Remove the title from the header on the home page */
+.home .VPNavBarTitle {
+  display: none !important;
+}
+
+/* Tweak logo size in navigation bar */
+.VPNavBarTitle .VPImage.logo {
+  height: 90px;
+  width: auto;
+}
+
+/* fix sidebar curtain to move it back up the page after we changed --vp-nav-height */
+.VPSidebar .curtain {
+  top: calc(var(--vp-nav-height)*-1);
+}
