@@ -25,24 +25,27 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Travel to Conference',
+        text: 'Travel to Conference Venue',
         // collapsed: true,
+        link: '/travel_to_venue',
         items: [
           { text: 'Bus Stops', link: '/bus-stops' },
           { text: 'Equipment Drop Off', link: '/equipment-drop-off' },
           { text: 'Disabled Access', link: '/disabled-access' }
         ]
       },
-      {
-        text: 'Flight Information',
-        // collapsed: true,
-        items: [
-          { text: 'UK Flyer ID', link: '/markdown-examples' },
-          { text: 'Operating Area', link: '/api-examples' },
-          { text: 'Site Rules', link: '/api-examples' },
-          { text: 'Insurance', link: '/api-examples' },
-        ]
-      }
+      // {
+      //   text: 'Flight Information',
+      //   // collapsed: true,
+      //   items: [
+      //     { text: 'UK Flyer ID', link: '/flyer-registration' },
+      //     { text: 'Operating Area', link: '/operator-area' },
+      //     { text: 'Site Rules', link: '/api-examples' },
+      //     { text: 'Insurance', link: '/api-examples' },
+      //   ]
+      // },
+      { text: 'Getting to Yorkshire', link: '/travel' },
+      { text: 'Help & Contact', link: '/help_and_contact' }
     ],
 
     // Add logo to header
@@ -55,7 +58,7 @@ export default defineConfig({
     siteTitle: false,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/ArduPilot' }
     ],
 
     search: {

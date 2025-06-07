@@ -4,10 +4,10 @@
     --vp-nav-height: 100px /* increase navigationo bar height to allow more space for our logo */
   }
 
-/* Class used to ensure videos are in centre of the page */
-.video-center {
+/* Class used to ensure images are in centre of the page */
+.image-center {
   display: flex;
-  flex-direction: column; /* stack children vertically */
+  flex-direction: column;  /* stack children vertically */
   align-items: center;     /* center horizontally */
   gap: 1rem;               /* space between caption and iframe */
   margin: 2rem 0;
@@ -32,4 +32,18 @@
 /* fix sidebar curtain to move it back up the page after we changed --vp-nav-height */
 .VPSidebar .curtain {
   top: calc(var(--vp-nav-height)*-1);
+}
+
+.only-light {
+  display: block;
+}
+.dark .only-light {
+  display: none;
+}
+
+.only-dark {
+  display: none;
+}
+.dark .only-dark {
+  display: block;
 }
