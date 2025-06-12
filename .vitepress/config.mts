@@ -58,7 +58,7 @@ export default defineConfig({
     siteTitle: false,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ArduPilot' }
+      { icon: 'github', link: 'https://github.com/KHUnmanned/AP_Conf_Wiki' }
     ],
 
     search: {
