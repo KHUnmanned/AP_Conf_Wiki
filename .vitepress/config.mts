@@ -19,7 +19,7 @@ export default defineConfig({
         text: 'Schedule',
         // collapsed: true,
         items: [
-          { text: 'Time Table', link: '/time-table' },
+          // { text: 'Time Table', link: '/time-table' },
           { text: 'List of Talks', link: '/talks' },
           { text: 'List of Demos', link: '/demos' }
         ]
