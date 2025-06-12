@@ -37,7 +37,7 @@ There will be three types of talks:
 | Long Talk          | 55 min                      | 5 min              | 60 min               |
 
 ::: tip Note
-Please note that We are unlikely to be accepting many long talks, aiming for only one a day.
+Please note that we are unlikely to be accepting many long talks, aiming for only one a day.
 :::
 
 ::: tip Note
