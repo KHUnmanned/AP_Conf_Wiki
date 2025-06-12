@@ -1,6 +1,6 @@
 # Proposed Talks
 
-To make it clear to all, who we know about that has offered to give a talk and the topic, below is an active list that represents all of the talks we currently know about.  Please [Contact us](/help_and_contact) if you want to offer a talk and want to update this information.
+Below is an active list that represents all of the talks we currently know about.  Please [Contact us](/help_and_contact) if you want to offer a talk and want to update this information.
 
 ::: warning Notice
 We are expecting to have a lot of talks and demos and we will do our utmost to accommodate everyone.  Please accept our apologies if we cannot assure you a talk slot or your desired time.
