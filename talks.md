@@ -21,7 +21,7 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 | Andy Piper         | ??                                               |
 | Charlie & Dan      | Manna Talk: Challenges in drone delivery         |
 | Auterik            | Fleet Management                                 |
-| Ryan Freedman      | Ross/Plane talk?                                 |
+| Ryan Friedman      | Ross/Plane talk?                                 |
 | Simon Hancock      | Linking Drones VTOL and mobile App               |
 | Leonard Hall       | ??                                               |
 

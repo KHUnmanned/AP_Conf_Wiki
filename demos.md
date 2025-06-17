@@ -20,7 +20,7 @@ To fit in with our schedule, all demos will be given up to a maximum of 15 min, 
 | Remote Aero     | Mini Plane Rescue Launch Demo              |
 | Andy Piper      | Racing Drone                               |
 | Manna           | Drone Delivery (Hopefully)                 |
-| Ryan Freidman   | Auto missions                              |
+| Ryan Friedman   | Auto missions                              |
 
 
 
