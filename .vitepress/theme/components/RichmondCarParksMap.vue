@@ -12,6 +12,16 @@ onMounted(async () => {
   const L = await import('leaflet')
   await import('leaflet/dist/leaflet.css')
 
+  // Async import of images to ensure correct bundling and paths
+  const markerIcon = (await import('leaflet/dist/images/marker-icon.png')).default;
+  const markerShadow = (await import('leaflet/dist/images/marker-shadow.png')).default;
+
+  // Fix default icon globally
+  L.Marker.prototype.options.icon = L.icon({
+    iconUrl: markerIcon,
+    shadowUrl: markerShadow,
+  });
+
   const map = L.map('map').setView([54.403473, -1.739696], 16)
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
