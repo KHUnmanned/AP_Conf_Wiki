@@ -36,3 +36,14 @@ For everyone to know what is available for conducting demos:
 Please be aware that all demos will be live streamed and recorded for ArduPilot's YouTube page.
 :::
 
+## Obtaining battery's and other additional hardware
+
+In order to make sure everyone has the hardware they need for demos 3DXR have kindly offered to put orders aside so you can collect them once you arrive in Richmond.
+
+1. Got to https://www.3dxr.co.uk/ and add everything you need to your basket.
+2. Screen shot your basket.
+3. Email info@3dxr.co.uk the screen shot and include "ArduPilot Developer conference 2025 order" in the subject line. Add your details to the email and when you will arriving in Richmond to collect.
+4. 3DXR will provide you with payment instructions.
+5. Pay.
+6. Arrive in Richmond and collect your items.
+
