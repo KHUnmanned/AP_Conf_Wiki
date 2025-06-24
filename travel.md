@@ -20,6 +20,10 @@ Once at the Darlington station you have two options:
 A good website/app for booking train travel in the UK is [thetrainline.com](https://www.thetrainline.com/). Using the app, you can get paperless tickets that work with the trains and access gates to the platforms.
 :::
 
+## Flying
+
+You may be able to get a connecting flight to Teesside international Airport, this is the closest airport to the Richmond. As with Darlington train station you can either contact us for a pick up, or make your own way to Richmond. There are a few other close airports, such as Leeds Bradford, however getting from them to Richmond is difficult unless you plan on hiring a car. You are probably better to go a larger airport where you can easily transfer to the train for Darlington (see above).
+
 ## Rental Car/Driving
 
 Richmond has easy access by car. See below for a few common approaches into Richmond.
