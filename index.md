@@ -28,7 +28,7 @@ Kind regards,
 <div style="line-height: 1.2;">
   Matt & Pete
 <br>
-  Conference Organisers
+  Conference Organizers
 </div>
 
 
