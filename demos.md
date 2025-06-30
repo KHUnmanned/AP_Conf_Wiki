@@ -13,7 +13,7 @@ To fit in with our schedule, all demos will be given up to a maximum of 15 min, 
 | Matt Kear       | Autorotation demo                          |
 | Eric Maglio     | F35 Demo                                   |
 | Tim Tuxworth    | Follow Plane Demo                          |
-| Randy           | Small Aerial Photography Drones with AP    |
+| Randy Mackay    | Small Aerial Photography Drones with AP    |
 | Ferruccio Vicari      | Turbine heli                               |
 | Rhys Mainwaring | Terrain following demo with small plane    |
 | Kichii Katsumata  | ??                                         |
