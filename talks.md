@@ -13,7 +13,7 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 | Tridge             | Systems Update                                   |
 | Randy              | Small Aerial Photography Drones with AP          |
 | Rhys Mainwaring    | Gazebo/Ross/ESP32 Rover/etc                      |
-| Stephen Dade       | ??                                               |
+| Stephen Dade       | BVLOS Telemetry Options with ArduPilot           |
 | Kichii & Shibya    | ??                                               |
 | Philip Rowse       | Cube Pilot Talk of Some Sort, MP update?         |
 | George Zogopoulos  | ??                                               |
