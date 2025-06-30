@@ -14,14 +14,15 @@ To fit in with our schedule, all demos will be given up to a maximum of 15 min, 
 | Eric Maglio     | F35 Demo                                   |
 | Tim Tuxworth    | Follow Plane Demo                          |
 | Randy           | Small Aerial Photography Drones with AP    |
-| Ferruccio       | Turbine heli                               |
+| Ferruccio Vicari      | Turbine heli                               |
 | Rhys Mainwaring | Terrain following demo with small plane    |
-| Kichii          | ??                                         |
-| Remote Aero     | Mini Plane Rescue Launch Demo              |
+| Kichii Katsumata  | ??                                         |
+| Alexander Sandström   | Remote Aero Plane Rescue Launch Demo              |
 | Andy Piper      | Racing Drone                               |
 | Manna           | Drone Delivery (Hopefully)                 |
 | Ryan Friedman   | Auto missions                              |
-
+| Stephen Dade    | Indoor Rover Navigation                    |
+| Josh Welsh & Bill Geyer | ?? Partial Remote Demo             |
 
 
 ## Facilities Available
