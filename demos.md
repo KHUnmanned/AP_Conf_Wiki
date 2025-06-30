@@ -7,7 +7,7 @@ Below is an active list that represents all of the demos that we currently know 
 To fit in with our schedule, all demos will be given up to a maximum of 15 min, time slot.  Inclement weather may cause us to need to reshuffle the schedule.  Please be prepared to be flexible on specific timings, on the day.
 :::
 
-
+<!-- cspell:disable -->
 | Name            | Demo                                       |
 |-----------------|--------------------------------------------|
 | Matt Kear       | Autorotation demo                          |
@@ -23,7 +23,7 @@ To fit in with our schedule, all demos will be given up to a maximum of 15 min, 
 | Ryan Friedman   | Auto missions                              |
 | Stephen Dade    | Indoor Rover Navigation                    |
 | Josh Welsh & Bill Geyer | ?? Partial Remote Demo             |
-
+<!-- cspell:enable -->
 
 ## Facilities Available
 

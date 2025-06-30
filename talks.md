@@ -6,6 +6,7 @@ Below is an active list that represents all of the talks we currently know about
 We are expecting to have a lot of talks and demos and we will do our utmost to accommodate everyone.  Please accept our apologies if we cannot assure you a talk slot or your desired time.
 :::
 
+<!-- cspell:disable -->
 | Name               | Talk                                             | Requested Talk Time                     |
 |--------------------|--------------------------------------------------|-----------------------------------------|
 | Eric Magilo        | F35 Update                                       |
@@ -33,7 +34,7 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 | Simon Hancock | Linking One Drone Story | Regular Talk |
 | Yogesh Khedar | Fleet Management and Automated Operation | Regular Talk |
 | Rishahb       | EKF Work | Lightning Talk |
-
+<!-- cspell:enable -->
 
 
 ## Talk Timings
