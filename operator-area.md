@@ -1,7 +1,1 @@
 # Operating Area
-
-
-
-
-
-

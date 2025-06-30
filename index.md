@@ -1,4 +1,3 @@
-
 <div class=image-center>
   <img src="/images/APDC-Logo.svg" class="only-light" style="width: 400px;" >
   <img src="/images/APDC-Logo-Dark.svg" class="only-dark" style="width: 400px;">
@@ -30,7 +29,3 @@ Kind regards,
 <br>
   Conference Organizers
 </div>
-
-
-
-
