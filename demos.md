@@ -40,7 +40,7 @@ For everyone to know what is available for conducting demos:
 Please be aware that all demos will be live streamed and recorded for ArduPilot's YouTube page.
 :::
 
-## Obtaining battery's and other additional hardware
+## Purchasing Batteries and Other Hardware
 
 In order to make sure everyone has the hardware they need for demos 3DXR have kindly offered to put orders aside so you can collect them once you arrive in Richmond.
 
@@ -50,3 +50,12 @@ In order to make sure everyone has the hardware they need for demos 3DXR have ki
 4. 3DXR will provide you with payment instructions.
 5. Pay.
 6. Arrive in Richmond and collect your items.
+
+## Borrowing Batteries
+
+We understand the difficulty in shipping/bringing batteries internationally for demos. We do have a good selection of batteries in a pool that are used for testing. If you wish to enquire about borrowing some of these batteries for your demo please:
+
+1. email info@3dxr.co.uk with "ArduPilot Developer conference 2025 battery loan" in the title.
+2. Ensure that you specify the battery make/model, dimensions, chemistry, capacity, and plug type that you normally use.
+
+We will then see if we can find the same or an equivalent to offer you from our pool of batteries.
