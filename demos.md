@@ -10,21 +10,21 @@ To fit in with our schedule, all demos will be given up to a maximum of 15 min, 
 
 <!-- cspell:disable -->
 
-| Name                    | Demo                                    | Demo Immediatly After Talk |
-| ----------------------- | --------------------------------------- | -------------------------- |
-| Matt Kear               | Autorotation demo                       | N/A                        |
-| Eric Maglio             | F35 Demo                                | -                          |
-| Tim Tuxworth            | Follow Plane Demo                       | -                          |
-| Randy Mackay            | Small Aerial Photography Drones with AP | No                         |
-| Ferruccio Vicari        | Turbine heli                            | -                          |
-| Rhys Mainwaring         | Terrain following demo with small plane | -                          |
-| Kichii Katsumata        | ??                                      | -                          |
-| Alexander Sandström     | Remote Aero Plane Rescue Launch Demo    | -                          |
-| Andy Piper              | Racing Drone                            | -                          |
-| Manna                   | Drone Delivery (Hopefully)              | -                          |
-| Ryan Friedman           | Auto missions                           | -                          |
-| Stephen Dade            | Indoor Rover Navigation                 | -                          |
-| Josh Welsh & Bill Geyer | ?? Partial Remote Demo                  | -                          |
+| Name                    | Demo                                    | Demo Immediately After Talk |
+| ----------------------- | --------------------------------------- | --------------------------- |
+| Matt Kear               | Autorotation demo                       | N/A                         |
+| Eric Maglio             | F35 Demo                                | -                           |
+| Tim Tuxworth            | Follow Plane Demo                       | -                           |
+| Randy Mackay            | Small Aerial Photography Drones with AP | No                          |
+| Ferruccio Vicari        | Turbine heli                            | -                           |
+| Rhys Mainwaring         | Terrain following demo with small plane | -                           |
+| Kichii Katsumata        | ??                                      | -                           |
+| Alexander Sandström     | Remote Aero Plane Rescue Launch Demo    | -                           |
+| Andy Piper              | Racing Drone                            | -                           |
+| Manna                   | Drone Delivery (Hopefully)              | -                           |
+| Ryan Friedman           | Auto missions                           | -                           |
+| Stephen Dade            | Indoor Rover Navigation                 | -                           |
+| Josh Welsh & Bill Geyer | ?? Partial Remote Demo                  | -                           |
 
 <!-- cspell:enable -->
 
