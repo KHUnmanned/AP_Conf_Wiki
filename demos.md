@@ -23,7 +23,7 @@ To fit in with our schedule, all demos will be given up to a maximum of 15 min, 
 | Andy Piper              | Racing Drone                            | -                           |
 | Manna                   | Drone Delivery (Hopefully)              | -                           |
 | Ryan Friedman           | Auto missions                           | -                           |
-| Stephen Dade            | Indoor Rover Navigation                 | -                           |
+| Stephen Dade            | ArduRover and ROS2 autonomy             | -                           |
 | Josh Welsh & Bill Geyer | ?? Partial Remote Demo                  | -                           |
 
 <!-- cspell:enable -->
