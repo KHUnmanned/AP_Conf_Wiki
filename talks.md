@@ -10,7 +10,6 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 
 | Name                         | Talk                                                                       | Requested Talk Time |
 | ---------------------------- | -------------------------------------------------------------------------- | ------------------- |
-| Eric Magilo                  | F35 Update                                                                 |                     |
 | Tim Tuxworth                 | Plane Following                                                            |                     |
 | Andrew Tridgell              | Systems Update                                                             |                     |
 | Randy MacKay                 | Small Aerial Photography Drones with AP                                    |                     |
