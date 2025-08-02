@@ -5,7 +5,8 @@
     "docs:preview": "vitepress preview",
     "cspell": "npx cspell \"**/*.md\"",
     "format:check": "npx prettier --check \"**/*.md\"",
-    "format:fix": "npx prettier --write \"**/*.md\""
+    "format:fix": "npx prettier --write \"**/*.md\"",
+    "test:all" : "npm run format:check && npm run cspell && npm run docs:build"
   },
   "devDependencies": {
     "vitepress": "^1.6.3"

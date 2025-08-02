@@ -16,14 +16,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Format check
-        run: npm run format:check
-
-      - name: Spelling check
-        run: npm run cspell
-
-      - name: Build site
-        run: npm run docs:build
+      - name: Test all
+        run: npm run test:all
 
       - name: Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
