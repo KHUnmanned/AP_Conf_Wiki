@@ -36,6 +36,7 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 | Andras Schaffer                    | Mission Planner Update                                                     | Regular Talk        |
 | Willian Galvani                    | BlueOS Updates                                                             | Regular Talk        |
 | Willian Galvani                    | Ardusub Current State and the Way Forward                                  | Regular Talk        |
+| Tom Pittenger                      | Kraus Hamdani Aerospace Talk: Enhancements to ArduPilot                    | Regular Talk        |
 
 <!-- cspell:enable -->
 
