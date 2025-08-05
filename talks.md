@@ -17,9 +17,9 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 | Stephen Dade                       | BVLOS Telemetry Options with ArduPilot                                     |                     |
 | Masaki Shibuya & Hisanori Sunohara | Integration of Eurekdynamics FFT GYRO with ArduPilot                       | Lightning Talk      |
 | Philip Rowse                       | Cube Pilot Talk of Some Sort, MP update?                                   |                     |
-| George Zogopoulos                  | ??                                                                         |                     |
+| George Zogopoulos                  | An Exploration of TECS Parameters                                          | Regular Talk        |
 | Fredrik Falkman                    | Remote Aero Talk                                                           |                     |
-| Andy Piper                         | ??                                                                         |                     |
+| Andy Piper                         | Small Fast Drone                                                           | Regular Talk        |
 | Charlie Burge & Dan Moss           | Manna Talk: Challenges in drone delivery                                   |                     |
 | Ryan Friedman                      | Ross/Plane talk?                                                           |                     |
 | Simon Hancock                      | Linking Drones VTOL and mobile App                                         |                     |
@@ -34,6 +34,8 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 | Yogesh Khedar                      | Fleet Management and Automated Operation                                   | Regular Talk        |
 | Rishabh Singh                      | EKF Work                                                                   | Lightning Talk      |
 | Andras Schaffer                    | Mission Planner Update                                                     | Regular Talk        |
+| Willian Galvani                    | BlueOS Updates                                                             | Regular Talk        |
+| Willian Galvani                    | Ardusub Current State and the Way Forward                                  | Regular Talk        |
 
 <!-- cspell:enable -->
 
