@@ -33,6 +33,7 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 | Simon Hancock                      | Linking One Drone Story                                                    | Regular Talk        |
 | Yogesh Khedar                      | Fleet Management and Automated Operation                                   | Regular Talk        |
 | Rishabh Singh                      | EKF Work                                                                   | Lightning Talk      |
+| Andras Schaffer                    | Mission Planner Update                                                     | Regular Talk        |
 
 <!-- cspell:enable -->
 
