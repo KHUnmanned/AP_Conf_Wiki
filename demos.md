@@ -10,20 +10,19 @@ To fit in with our schedule, all demos will be given up to a maximum of 15 min, 
 
 <!-- cspell:disable -->
 
-| Name                  | Demo                                    | Demo Immediately After Talk |
-| --------------------- | --------------------------------------- | --------------------------- |
-| Matt Kear             | Autorotation demo                       | N/A                         |
-| Eric Maglio           | F35 Demo                                | -                           |
+| Name            | Demo                                    | Demo Immediately After Talk |
+| --------------- | --------------------------------------- | --------------------------- |
+| Rhys Mainwaring | Terrain following demo with small plane | -                           |
+
+<!-- | Eric Maglio           | F35 Demo                                | -                           |
 | Tim Tuxworth          | Follow Plane Demo                       | -                           |
 | Randy Mackay          | Small Aerial Photography Drones with AP | No                          |
 | Ferruccio Vicari      | Turbine heli                            | N/A                         |
-| Rhys Mainwaring       | Terrain following demo with small plane | -                           |
 | Alexander Sandström   | Remote Aero Plane Rescue Launch Demo    | -                           |
 | Andy Piper            | Racing Drone                            | Yes                         |
-| Manna                 | Drone Delivery (Hopefully)              | -                           |
 | Ryan Friedman         | Auto missions                           | -                           |
 | Stephen Dade          | ArduRover and ROS2 autonomy             | -                           |
-| Matt Kear & Pete Hall | Motor Redundancy Demo                   | N/A                         |
+| Matt Kear & Pete Hall | Motor Redundancy Demo                   | N/A                         | -->
 
 <!-- cspell:enable -->
 

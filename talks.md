@@ -8,15 +8,17 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 
 <!-- cspell:disable -->
 
-| Name                               | Talk                                                                       | Requested Talk Time |
-| ---------------------------------- | -------------------------------------------------------------------------- | ------------------- |
-| Tim Tuxworth                       | Plane Following                                                            |                     |
-| Andrew Tridgell                    | Systems Update                                                             |                     |
+| Name             | Talk                                          | Requested Talk Time |
+| ---------------- | --------------------------------------------- | ------------------- |
+| Stephen Dade     | BVLOS Telemetry Options with ArduPilot        |                     |
+| Willian Galvani  | Ardusub Current State and the Way Forward     | Regular Talk        |
+| Gábor Vásárhelyi | Multi-UAV missions with ArduCopter + Skybrush | Regular Talk        |
+| Yogesh Khedar    | Fleet Management and Automated Operation      | Regular Talk        |
+
+<!-- | Andrew Tridgell                    | Systems Update                                                             |                     |
 | Randy MacKay & Willian Galvani     | Small Aerial Photography Drones with AP                                    | Long Talk           |
 | Rhys Mainwaring                    | Gazebo/Ross/ESP32 Rover/etc                                                |                     |
-| Stephen Dade                       | BVLOS Telemetry Options with ArduPilot                                     |                     |
 | Masaki Shibuya & Hisanori Sunohara | Integration of Eurekdynamics FFT GYRO with ArduPilot                       | Lightning Talk      |
-| Philip Rowse                       | Cube Pilot Talk of Some Sort, MP update?                                   |                     |
 | George Zogopoulos                  | An Exploration of TECS Parameters                                          | Regular Talk        |
 | Fredrik Falkman                    | Remote Aero Talk                                                           |                     |
 | Andy Piper                         | Small Fast Drone                                                           | Regular Talk        |
@@ -25,18 +27,16 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 | Simon Hancock                      | Linking Drones VTOL and mobile App                                         |                     |
 | Leonard Hall                       | ??                                                                         |                     |
 | Ben Pickard & Tamás Nepusz         | The challenges of a drone light show                                       |                     |
-| Gábor Vásárhelyi                   | Multi-UAV missions with ArduCopter + Skybrush                              | Regular Talk        |
 | Bob Entwistle & Cameron Boyd       | Design, Build, Fly: How ArduPilot Enhances Aerospace Engineering Education | Regular Talk        |
 | Hamish Willee                      | Mavlink Report                                                             |                     |
 | Sid Purohit                        | VS Code Ardupilot Developer Environment                                    |                     |
 | Amilcar Lucas                      | ArduPilot Methodic Configurator                                            |                     |
 | Simon Hancock                      | Linking One Drone Story                                                    | Regular Talk        |
-| Yogesh Khedar                      | Fleet Management and Automated Operation                                   | Regular Talk        |
 | Rishabh Singh                      | EKF Work                                                                   | Lightning Talk      |
 | Andras Schaffer                    | Mission Planner Update                                                     | Regular Talk        |
 | Willian Galvani                    | BlueOS Updates                                                             | Regular Talk        |
-| Willian Galvani                    | Ardusub Current State and the Way Forward                                  | Regular Talk        |
 | Tom Pittenger                      | Kraus Hamdani Aerospace Talk: Enhancements to ArduPilot                    | Regular Talk        |
+| Lee Schofield                      | Instructing Users of ArduPilot                                             | Lightning Talk        | -->
 
 <!-- cspell:enable -->
 
