@@ -1,7 +1,7 @@
 
 :root {
     --vp-home-hero-name-color: #6d6d6d; /* Change font colour in hero */
-    --vp-nav-height: 100px /* increase navigationo bar height to allow more space for our logo */
+    --vp-nav-height: 100px /* increase navigation bar height to allow more space for our logo */
   }
 
 /* Class used to ensure images are in centre of the page */
@@ -11,6 +11,13 @@
   align-items: center;     /* center horizontally */
   gap: 1rem;               /* space between caption and iframe */
   margin: 2rem 0;
+}
+
+img.sponsor-img {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 /* Overides for the home page style */

@@ -47,6 +47,7 @@ export default defineConfig({
       // },
       { text: 'Getting to Yorkshire', link: '/travel' },
       { text: 'Family & Friends', link: '/familyAndFriends' },
+      { text: 'Sponsors', link: '/sponsors' },
       { text: 'Help & Contact', link: '/help_and_contact' }
     ],
 
