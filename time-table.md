@@ -16,7 +16,7 @@ const eventsD1 = [
   { start: '09:40', end: '10:40', title: 'Systems Update', speaker: 'Andrew Tridgell'},
   { start: '10:40', end: '11:00', title: 'Morning Tea', speaker: '', merge: true },
   { start: '11:00', end: '11:20', title: 'F35 Demo', speaker: 'Eric Maglio' },
-  { start: '11:20', end: '12:00', title: 'BlueOS Update', speaker: 'Willian Galvani'},
+  { start: '11:20', end: '12:00', title: 'Ardusub Current State and the Way Forward', speaker: 'Willian Galvani'},
   { start: '12:00', end: '12:40', title: 'Mission Planner Update', speaker: 'Andras Schaffer'},
   { start: '12:40', end: '13:40', title: 'Lunch', speaker: '', merge: true },
   { start: '13:40', end: '14:00', title: 'Plane Follow Demo', speaker: 'Tim Tuxworth'},

@@ -11,11 +11,12 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 | Name             | Talk                                          | Requested Talk Time |
 | ---------------- | --------------------------------------------- | ------------------- |
 | Stephen Dade     | BVLOS Telemetry Options with ArduPilot        |                     |
-| Willian Galvani  | Ardusub Current State and the Way Forward     | Regular Talk        |
 | Gábor Vásárhelyi | Multi-UAV missions with ArduCopter + Skybrush | Regular Talk        |
 | Yogesh Khedar    | Fleet Management and Automated Operation      | Regular Talk        |
 
-<!-- | Andrew Tridgell                    | Systems Update                                                             |                     |
+<!--
+| Willian Galvani                    | Ardusub Current State and the Way Forward                                  | Regular Talk        |
+| Andrew Tridgell                    | Systems Update                                                             |                     |
 | Randy MacKay & Willian Galvani     | Small Aerial Photography Drones with AP                                    | Long Talk           |
 | Rhys Mainwaring                    | Gazebo/Ross/ESP32 Rover/etc                                                |                     |
 | Masaki Shibuya & Hisanori Sunohara | Integration of Eurekdynamics FFT GYRO with ArduPilot                       | Lightning Talk      |
@@ -36,7 +37,8 @@ We are expecting to have a lot of talks and demos and we will do our utmost to a
 | Andras Schaffer                    | Mission Planner Update                                                     | Regular Talk        |
 | Willian Galvani                    | BlueOS Updates                                                             | Regular Talk        |
 | Tom Pittenger                      | Kraus Hamdani Aerospace Talk: Enhancements to ArduPilot                    | Regular Talk        |
-| Lee Schofield                      | Instructing Users of ArduPilot                                             | Lightning Talk        | -->
+| Lee Schofield                      | Instructing Users of ArduPilot                                             | Lightning Talk      |
+-->
 
 <!-- cspell:enable -->
 
