@@ -21,7 +21,7 @@ export default defineConfig({
         items: [
           { text: 'Time Table', link: '/time-table' },
           { text: 'List of Talks', link: '/talks' },
-          { text: 'Demos & Facilities', link: '/demos' },
+          { text: 'Demo Support', link: '/demos' },
           { text: 'Conference Dinner', link: '/conferenceDinner' }
         ]
       },
