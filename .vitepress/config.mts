@@ -40,7 +40,7 @@ export default defineConfig({
         // collapsed: true,
         items: [
           { text: 'Flyer/Drone Registration', link: '/flyer-registration' },
-          // { text: 'Operating Area', link: '/operator-area' },
+          { text: 'Operating Area', link: '/operating-area' },
           // { text: 'Site Rules', link: '/api-examples' },
           // { text: 'Insurance', link: '/api-examples' },
         ]
