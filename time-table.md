@@ -59,11 +59,11 @@ const eventsD2 = [
   { start: '17:00', end: '18:00', title: 'Transfer buses to La Piaza\nfor conference dinner', speaker: '', merge: true },
   { start: '18:00', end: '18:40', title: 'Welcome Drinks, Nibbles, & Mingling', speaker: '', merge: true },
   { start: '18:40', end: '20:00', title: 'Dinner', speaker: '', merge: true },
-  // { start: '20:00', end: '20:20', title: 'Walk to Castle', speaker: '', merge: true },
-  // { start: '20:20', end: '21:00', title: 'Richmond Castle Event', speaker: '', merge: true },
+  { start: '20:00', end: '20:20', title: 'Walk to Castle', speaker: '', merge: true },
+  { start: '20:20', end: '21:00', title: 'Richmond Castle Event', speaker: '', merge: true },
 ]
 const startD2 = '08:40'
-const endD2   = '20:00'
+const endD2   = '21:00'
 
 // Day 3 Setup 
 const eventsD3 = [
