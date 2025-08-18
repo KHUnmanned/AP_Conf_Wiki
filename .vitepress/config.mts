@@ -20,7 +20,6 @@ export default defineConfig({
         // collapsed: true,
         items: [
           { text: 'Time Table', link: '/time-table' },
-          { text: 'List of Talks', link: '/talks' },
           { text: 'Demo Support', link: '/demos' },
           { text: 'Conference Dinner', link: '/conferenceDinner' }
         ]
