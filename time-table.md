@@ -6,6 +6,10 @@ Below are the draft schedules for conference, to give attendees an idea of what 
 We are struggling to fit all of the requested talks, and have talks in reserve. If anyone would be willing to reduce their talk time down to make space for others, please reach out to us.
 :::
 
+::: warning Notice
+To fit in with our schedule, all demos will be given up to a maximum of 15 min, time slot. Inclement weather may cause us to need to reshuffle the schedule. Please be prepared to be flexible on specific timings, on the day. If you genuinely believe you need more time for your demo, please [get in touch](/help_and_contact)
+:::
+
 ## Day 1 - Fri 5th Sep 2025
 
 <script setup>
