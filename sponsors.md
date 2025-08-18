@@ -1,6 +1,6 @@
 # Our Sponsors
 
-We are incredibly fortunate to have a community of supportive partners behind the developer conference. The follow list shows all of the companies that are sponsoring the 2025 developers conference:
+We are incredibly fortunate to have a community of supportive partners behind the developer conference. The following list shows all of the companies that are sponsoring the 2025 developers conference:
 
 <!-- cspell:disable -->
 <table>
