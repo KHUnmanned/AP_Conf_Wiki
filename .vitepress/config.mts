@@ -35,16 +35,16 @@ export default defineConfig({
           { text: 'Disabled Access', link: '/disabled-access' }
         ]
       },
-      // {
-      //   text: 'Flight Information',
-      //   // collapsed: true,
-      //   items: [
-      //     { text: 'UK Flyer ID', link: '/flyer-registration' },
-      //     { text: 'Operating Area', link: '/operator-area' },
-      //     { text: 'Site Rules', link: '/api-examples' },
-      //     { text: 'Insurance', link: '/api-examples' },
-      //   ]
-      // },
+      {
+        text: 'Flight Information',
+        // collapsed: true,
+        items: [
+          { text: 'Flyer/Drone Registration', link: '/flyer-registration' },
+          // { text: 'Operating Area', link: '/operator-area' },
+          // { text: 'Site Rules', link: '/api-examples' },
+          // { text: 'Insurance', link: '/api-examples' },
+        ]
+      },
       { text: 'Getting to Yorkshire', link: '/travel' },
       { text: 'Family & Friends', link: '/familyAndFriends' },
       { text: 'Sponsors', link: '/sponsors' },
