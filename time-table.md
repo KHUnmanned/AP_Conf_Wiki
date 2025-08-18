@@ -25,7 +25,7 @@ const eventsD1 = [
   { start: '15:00', end: '15:20', title: 'Integration of Eurekdynamics FFT GYRO with ArduPilot', speaker: 'Masaki Shibuya & Hisanori Sunohara'},
   { start: '15:20', end: '15:40', title: 'Afternoon Tea', speaker: '', merge: true },
   { start: '15:40', end: '16:00', title: 'Motor Redundancy Demo', speaker: 'Matt Kear & Peter Hall'},
-  { start: '16:00', end: '16:40', title: 'Gazebo/Ross/ESP32 Rover', speaker: 'Rhys Mainwaring' },
+  { start: '16:00', end: '16:40', title: 'Gazebo/Ross Rover', speaker: 'Rhys Mainwaring' },
   { start: '16:40', end: '17:00', title: 'End of Day Close/De-Brief', speaker: 'Organizers' },
   { start: '17:00', end: '19:00', title: 'Fun Flying\nBBQ & Pizza', speaker: '', merge: true },
 ]
@@ -64,7 +64,8 @@ const endD2   = '20:00'
 const eventsD3 = [
   { start: '08:40', end: '09:00', title: 'Guests Arrive', speaker: '', merge: true},
   { start: '09:00', end: '09:20', title: 'Welcome, Schedule Update & Ops Brief', speaker: 'Organizers' },
-  { start: '09:20', end: '10:20', title: '1st Talk', speaker: 'Leonard Hall' },
+  { start: '09:20', end: '10:00', title: '1st Talk', speaker: 'Leonard Hall' },
+  { start: '10:20', end: '10:40', title: 'Small Plane Terrain Following Demo', speaker: 'Rhys Mainwaring' },
   { start: '10:20', end: '10:40', title: 'ArduRover & ROS2 Autonomy Demo', speaker: 'Stephen Dade' },
   { start: '10:40', end: '11:00', title: 'Morning Tea', speaker: '', merge: true},
   { start: '11:00', end: '11:40', title: 'The challenges of a drone light show', speaker: 'Ben Pickard & Tamás Nepusz'},
