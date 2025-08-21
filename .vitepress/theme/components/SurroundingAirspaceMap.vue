@@ -120,6 +120,8 @@ onMounted(() => {
   }).addTo(map);
   teeside.bindPopup("<b>EGRU409A TEESIDE INTERNATIONAL</b><br><b>Distance:</b> 18 km<br><b>Bearing:</b> 56°<br><b>Upper limit:</b> 2000 FT ALT<br><b>Lower limit:</b> Surface<br><b>Activity:</b> FRZ for International Airport with Manned Aircraft.<br><b>Tel:</b> 01325 331020 (ATC).")
 
+  // Add scale bar
+  L.control.scale({ position: 'bottomright', imperial: false, maxWidth: 300 }).addTo(map);
 
   // Add instructions for using the map
   L.popup()

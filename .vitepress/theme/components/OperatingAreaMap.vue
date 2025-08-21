@@ -205,6 +205,9 @@ onMounted(() => {
   }).addTo(map);
   house2.bindPopup("<b>House</b><br>Do not overfly")
 
+  // Add scale bar
+  L.control.scale({ position: 'bottomright', imperial: false, maxWidth: 300 }).addTo(map);
+
   // Add instructions for using the map
   L.popup()
     .setLatLng(centre)
