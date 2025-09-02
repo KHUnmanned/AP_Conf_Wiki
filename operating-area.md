@@ -14,6 +14,11 @@ The most probable air risk will be from low-flying military aircraft (helicopter
   <OperatingAreaMap/>
 </ClientOnly>
 
+::: tip Geo fence file
+We have a pre-made geo-fence file available here: <a href="ConferenceFence.waypoints" download>ConferenceFence.waypoints</a>
+
+:::
+
 ## Wider Airspace
 
 The map below shows the wider airspace with the neighboring aerodrome Flight Restriction Zones (FRZs) and danger areas indicated. Clicking on each one will give the distance and bearing from the conference operating area, as well as a contact number. In the event of a fly-away, the last known heading and speed of the aircraft are to be noted and subsequently used to inform the appropriate airspace user. The local police should also be informed by calling 101.
