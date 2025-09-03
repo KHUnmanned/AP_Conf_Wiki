@@ -29,7 +29,7 @@ export default defineConfig({
         // collapsed: true,
         link: '/travel_to_venue',
         items: [
-          { text: 'Bus Stops', link: '/bus-stops' },
+          { text: 'Bus Stops and Times', link: '/bus-stops' },
           { text: 'Equipment Drop Off', link: '/equipment-drop-off' },
           { text: 'Disabled Access', link: '/disabled-access' }
         ]
