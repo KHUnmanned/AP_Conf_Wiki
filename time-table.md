@@ -20,7 +20,7 @@ const eventsD1 = [
   { start: '09:40', end: '10:40', title: 'Systems Update', speaker: 'Andrew Tridgell'},
   { start: '10:40', end: '11:00', title: 'Morning Tea', speaker: '', merge: true },
   { start: '11:00', end: '11:20', title: 'F35 Demo', speaker: 'Eric Maglio' },
-  { start: '11:20', end: '12:00', title: 'Ardusub Current State and the Way Forward', speaker: 'Willian Galvani'},
+  { start: '11:20', end: '12:00', title: 'Gazebo Update', speaker: 'Rhys Mainwaring'},
   { start: '12:00', end: '12:40', title: 'Mission Planner Update', speaker: 'Andras Schaffer'},
   { start: '12:40', end: '13:40', title: 'Lunch', speaker: '', merge: true },
   { start: '13:40', end: '14:00', title: 'Plane Follow Demo', speaker: 'Tim Tuxworth'},
@@ -29,9 +29,8 @@ const eventsD1 = [
   { start: '15:00', end: '15:20', title: 'Integration of Eurekdynamics FFT GYRO with ArduPilot', speaker: 'Masaki Shibuya & Hisanori Sunohara'},
   { start: '15:20', end: '15:40', title: 'Afternoon Tea', speaker: '', merge: true },
   { start: '15:40', end: '16:00', title: 'Motor Redundancy Demo', speaker: 'Matt Kear & Peter Hall'},
-  { start: '16:00', end: '16:40', title: 'Gazebo Update', speaker: 'Rhys Mainwaring' },
-  { start: '16:40', end: '17:00', title: 'End of Day Close/De-Brief', speaker: 'Organizers' },
-  { start: '17:00', end: '19:00', title: 'Fun Flying\nBBQ & Pizza', speaker: '', merge: true },
+  { start: '16:00', end: '16:20', title: 'End of Day Close/De-Brief', speaker: 'Organizers' },
+  { start: '16:20', end: '19:00', title: 'Fun Flying\nBBQ & Pizza', speaker: '', merge: true },
 ]
 
 const startD1 = '08:20'
@@ -82,7 +81,7 @@ const eventsD3 = [
   { start: '14:40', end: '15:00', title: 'Community and Visibility Insights', speaker: 'Pierre Kancir'},
   { start: '15:00', end: '15:20', title: 'Ross/Plane Talk', speaker: 'Ryan Friedman'},
   { start: '15:20', end: '15:40', title: 'Afternoon Tea', speaker: '', merge: true },
-  { start: '15:40', end: '16:00', title: 'Auto Mission Demo', speaker: 'Ryan Friedman'},
+  { start: '15:40', end: '16:00', title: 'Advancing Path Planning Autonomy', speaker: 'Ryan Friedman'},
   { start: '16:00', end: '16:40', title: 'Kraus Hamdani Aerospace Talk: Enhancements to ArduPilot', speaker: 'Tom Pittenger'},
   { start: '16:40', end: '17:00', title: 'Thanks & Closing Remarks', speaker: 'Organizers' },
 ]
@@ -109,6 +108,8 @@ const endD3   = '17:00'
 </ClientOnly>
 
 ## Day 3 - Sun 7th Sep 2025
+
+Reminder: [Emergency alert test](https://educationhub.blog.gov.uk/2025/09/what-you-need-to-know-about-the-emergency-alerts-test-on-7-september/) at 15:00
 
 <ClientOnly>
   <TimeTable 
