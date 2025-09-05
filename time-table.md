@@ -68,7 +68,7 @@ const endD2   = '21:00'
 const eventsD3 = [
   { start: '08:40', end: '09:00', title: 'Guests Arrive', speaker: '', merge: true},
   { start: '09:00', end: '09:20', title: 'Welcome, Schedule Update & Ops Brief', speaker: 'Organizers' },
-  { start: '09:20', end: '10:00', title: '1st Talk', speaker: 'Leonard Hall' },
+  { start: '09:20', end: '10:00', title: 'Cooperative Lift', speaker: 'Leonard Hall' },
   { start: '10:00', end: '10:20', title: 'Small Plane Terrain Following Demo', speaker: 'Rhys Mainwaring' },
   { start: '10:20', end: '10:40', title: 'ArduRover & ROS2 Autonomy Demo', speaker: 'Stephen Dade' },
   { start: '10:40', end: '11:00', title: 'Morning Tea', speaker: '', merge: true},
@@ -77,7 +77,8 @@ const eventsD3 = [
   { start: '12:00', end: '12:40', title: 'Acro-fencing, AI and Acrobatics with Small Fast Drone', speaker: 'Andy Piper'},
   { start: '12:40', end: '13:40', title: 'Lunch', speaker: '', merge: true },
   { start: '13:40', end: '14:00', title: 'Small Fast Drone Demo', speaker: 'Andy Piper'},
-  { start: '14:00', end: '14:40', title: 'MAVLink Report', speaker: 'Hamish Willee'},
+  { start: '14:00', end: '14:20', title: 'MAVLink Report', speaker: 'Hamish Willee'},
+  { start: '14:20', end: '14:40', title: 'Remote Aero Talk', speaker: 'Alexander Sandström'},
   { start: '14:40', end: '15:00', title: 'Community and Visibility Insights', speaker: 'Pierre Kancir'},
   { start: '15:00', end: '15:20', title: 'Ross/Plane Talk', speaker: 'Ryan Friedman'},
   { start: '15:20', end: '15:40', title: 'Afternoon Tea', speaker: '', merge: true },
