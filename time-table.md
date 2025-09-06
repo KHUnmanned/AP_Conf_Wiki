@@ -69,8 +69,7 @@ const eventsD3 = [
   { start: '08:40', end: '09:00', title: 'Guests Arrive', speaker: '', merge: true},
   { start: '09:00', end: '09:20', title: 'Welcome, Schedule Update & Ops Brief', speaker: 'Organizers' },
   { start: '09:20', end: '10:00', title: 'Cooperative Lift', speaker: 'Leonard Hall' },
-  { start: '10:00', end: '10:20', title: 'Small Plane Terrain Following Demo', speaker: 'Rhys Mainwaring' },
-  { start: '10:20', end: '10:40', title: 'ArduRover & ROS2 Autonomy Demo', speaker: 'Stephen Dade' },
+  { start: '10:00', end: '10:40', title: 'Small Plane Terrain Following Demo', speaker: 'Rhys Mainwaring & Ryan Friedman' },
   { start: '10:40', end: '11:00', title: 'Morning Tea', speaker: '', merge: true},
   { start: '11:00', end: '11:40', title: 'The challenges of a drone light show', speaker: 'Ben Pickard & Tamás Nepusz'},
   { start: '11:40', end: '12:00', title: 'VS Code ArduPilot Developer Environment', speaker: 'Sid Purohit'},
@@ -82,7 +81,7 @@ const eventsD3 = [
   { start: '14:40', end: '15:00', title: 'Community and Visibility Insights', speaker: 'Pierre Kancir'},
   { start: '15:00', end: '15:20', title: 'Ross/Plane Talk', speaker: 'Ryan Friedman'},
   { start: '15:20', end: '15:40', title: 'Afternoon Tea', speaker: '', merge: true },
-  { start: '15:40', end: '16:00', title: 'Advancing Path Planning Autonomy', speaker: 'Ryan Friedman'},
+  { start: '15:40', end: '16:00', title: 'ArduRover & ROS2 Autonomy Demo', speaker: 'Stephen Dade' },
   { start: '16:00', end: '16:40', title: 'Kraus Hamdani Aerospace Talk: Enhancements to ArduPilot', speaker: 'Tom Pittenger'},
   { start: '16:40', end: '17:00', title: 'Thanks & Closing Remarks', speaker: 'Organizers' },
 ]
