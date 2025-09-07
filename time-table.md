@@ -79,7 +79,7 @@ const eventsD3 = [
   { start: '14:00', end: '14:20', title: 'MAVLink Report', speaker: 'Hamish Willee'},
   { start: '14:20', end: '14:40', title: 'Remote Aero: Light Fixed Wings for Early Situational Awareness', speaker: 'Alexander Sandström'},
   { start: '14:40', end: '15:00', title: 'Community and Visibility Insights', speaker: 'Pierre Kancir'},
-  { start: '15:00', end: '15:20', title: 'Ross/Plane Talk', speaker: 'Ryan Friedman'},
+  { start: '15:00', end: '15:20', title: 'ROS/Plane Talk', speaker: 'Ryan Friedman'},
   { start: '15:20', end: '15:40', title: 'Afternoon Tea', speaker: '', merge: true },
   { start: '15:40', end: '16:00', title: 'ArduRover & ROS2 Autonomy Demo', speaker: 'Stephen Dade' },
   { start: '16:00', end: '16:40', title: 'Kraus Hamdani Aerospace Talk: Enhancements to ArduPilot', speaker: 'Tom Pittenger'},
